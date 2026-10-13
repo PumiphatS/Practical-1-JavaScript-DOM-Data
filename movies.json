@@ -1,0 +1,11 @@
+  [
+    { "movieName": "The matrix", "genre": "Sci-Fi", "year": 1999, "length": 136 },
+  { "movieName": "Inception", "genre": "Sci-Fi", "year": 2010, "length": 90 },
+  { "movieName": "Spirit Away", "genre": "Animation", "year": 2001, "length": 125 },
+  { "movieName": "Toy Story", "genre": "Animation", "year": 1995, "length": 81 },
+  { "movieName": "Parasite", "genre": "Drama", "year": 2019, "length": 132 },
+  { "movieName": "The godfather", "genre": "Drama", "year": 1972, "length": 125 },
+  { "movieName": "Coco", "genre": "Animation", "year": 2017, "length": 105 },
+  { "movieName": "Blade Runner", "genre": "Sci-Fi", "year": 2008, "length": 146 },
+  { "movieName": "Your Name", "genre": "Animation", "year": 2010, "length": 110 }
+  ]
